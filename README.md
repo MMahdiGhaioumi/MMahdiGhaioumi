@@ -4,7 +4,7 @@
 
 <br>
 
-> **Curiosity writes the code. Perfection shapes it.**
+### *Curiosity writes the code. Perfection shapes it.*
 
 </div>
 
@@ -16,8 +16,7 @@ I'm a **Backend Developer** with a genuine passion for computers and programming
 
 I enjoy understanding how things work beneath the surface, exploring new ideas, and turning what I learn into something practical.
 
-**Curiosity keeps me exploring.  
-Perfectionism keeps me improving.**
+I'm always looking for something new to learn, build, and improve.
 
 ---
 
@@ -25,13 +24,13 @@ Perfectionism keeps me improving.**
 
 ## ⚙️ Tech Stack
 
-### Backend & Data
+### 🐍 Backend & Data
 
 <img src="https://skillicons.dev/icons?i=python,django,mysql" height="52" alt="Python, Django, MySQL">
 
 <br><br>
 
-### Tools & Environment
+### 🧰 Tools & Environment
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux" height="52" alt="Git, Docker, Linux">
 
@@ -55,7 +54,7 @@ Perfectionism keeps me improving.**
 
 <br><br>
 
-**Going deeper into Django & exploring Machine Learning.**
+### Going deeper into Django & exploring Machine Learning.
 
 </div>
 
@@ -63,8 +62,24 @@ Perfectionism keeps me improving.**
 
 <div align="center">
 
-### `Learn deeply. Build deliberately. Improve relentlessly.`
+## 💬 Let's Talk
 
-<sub>Always curious. Always building. Always becoming better.</sub>
+<br>
+
+**Have a question, an idea, or just want to talk about technology?**
+
+Feel free to **ask me anything**, start a conversation, or open a discussion.
+
+<br>
+
+*I'm always happy to learn from others and share what I know.*
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Always curious. Always building. Always improving.</sub>
 
 </div>
