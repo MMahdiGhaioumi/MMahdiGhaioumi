@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Developer** passionate about computers and programming.
-I enjoy understanding how things work, exploring new ideas, and building practical solutions.
-Always learning, experimenting, and looking for better ways to build.
+I'm a **Backend Developer** with a genuine passion for computers and programming.
+I love exploring how things work beneath the surface and turning what I learn into practical solutions.
+I'm always learning, experimenting, and pushing myself to build things a little better.
 
 ---
 
