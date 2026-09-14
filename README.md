@@ -22,13 +22,13 @@
 
 ### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql,cpp,java" height="48" alt="Python, Django, MySQL, C++">
+<img src="https://skillicons.dev/icons?i=python,django,mysql,cpp" height="48" alt="Python, Django, MySQL, C++">
 
 <br>
 
 ### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux" height="48" alt="Git, Docker, Linux">
+<img src="https://skillicons.dev/icons?i=git,docker,linux,uv" height="48" alt="Git, Docker, Linux">
 
 <br>
 
