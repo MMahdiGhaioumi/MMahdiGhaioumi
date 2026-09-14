@@ -9,9 +9,7 @@
 ## 👨‍💻 About Me
 
 • I'm a **Backend Developer** passionate about computers and programming.
-
 • I love exploring how things work beneath the surface and turning ideas into practical solutions.
-
 • I'm always learning, experimenting, and pushing myself to build things better.
 
 <br>
@@ -22,7 +20,7 @@
 
 ### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql" height="48" alt="Python, Django, MySQL">
+<img src="https://skillicons.dev/icons?i=python,django,mysql,cpp" height="48" alt="Python, Django, MySQL, C++">
 
 <br>
 
