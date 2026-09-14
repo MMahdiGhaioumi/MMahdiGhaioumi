@@ -11,8 +11,8 @@
 ## 👨‍💻 About Me
 
 I'm a **Backend Developer** passionate about computers and programming.
-
-I enjoy understanding how things work, exploring new ideas, and turning what I learn into something practical.
+I enjoy understanding how things work, exploring new ideas, and building practical solutions.
+Always learning, experimenting, and looking for better ways to build.
 
 ---
 
@@ -50,9 +50,9 @@ I enjoy understanding how things work, exploring new ideas, and turning what I l
 
 ## 💬 Let's Talk
 
-Have a question, an idea, or something you'd like to discuss?
+**Have a question or an idea? Let's talk.**
 
-<br><br>
+<br>
 
 <a href="https://github.com/MMahdiGhaioumi/MMahdiGhaioumi/issues">
   <img src="https://img.shields.io/badge/Ask%20me%20anything-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ask me anything">
