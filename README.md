@@ -6,53 +6,57 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-I'm a **Backend Developer** passionate about computers and programming.
+• I'm a **Backend Developer** passionate about computers and programming.
+• I love exploring how things work beneath the surface and turning ideas into practical solutions.
+• I'm always learning, experimenting, and pushing myself to build things better.
 
-I love exploring how things work beneath the surface and turning ideas into practical solutions.
-
-I'm always learning, experimenting, and pushing myself to build things better.
-
----
+<br>
 
 <div align="center">
 
 ## ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql,git,docker,linux" height="48" alt="Python, Django, MySQL, Git, Docker, Linux">
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=python,django,mysql" height="48" alt="Python, Django, MySQL">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/uv-161B22?style=for-the-badge&logo=python&logoColor=DE5FE9" height="34" alt="uv">
-&nbsp;
-<img src="https://img.shields.io/badge/Incus-161B22?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="34" alt="Incus">
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux" height="48" alt="Git, Docker, Linux">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/uv-161B22?style=flat-square&logo=python&logoColor=DE5FE9" height="30" alt="uv">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Incus-161B22?style=flat-square&logo=linux&logoColor=FFFFFF" height="30" alt="Incus">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## 🌱 Currently Exploring
 
-<img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" height="36" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" height="34" alt="Machine Learning">
 
 <br>
 
-**Going deeper into Django & exploring Machine Learning.**
+Going deeper into **Django** & exploring **Machine Learning**.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## 💬 Let's Talk
 
-**Have a question or an idea? Let's talk.**
+Have a question or an idea?
 
 <br>
 
