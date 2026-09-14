@@ -28,7 +28,7 @@
 
 ### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,uv" height="48" alt="Git, Docker, Linux">
+<img src="https://skillicons.dev/icons?i=git,docker,linux" height="48" alt="Git, Docker, Linux">
 
 <br>
 
