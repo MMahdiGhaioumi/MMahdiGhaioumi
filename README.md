@@ -22,7 +22,7 @@
 
 ### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql,cpp" height="48" alt="Python, Django, MySQL, C++">
+<img src="https://skillicons.dev/icons?i=python,django,mysql,cpp" height="48" alt="Python, Django, MySQL, C++, java">
 
 <br>
 
