@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋 I am
 
 <div align="center">
 
@@ -35,20 +35,6 @@
 <img src="https://img.shields.io/badge/uv-161B22?style=flat-square&logo=python&logoColor=DE5FE9" height="30" alt="uv">
 &nbsp;
 <img src="https://img.shields.io/badge/Incus-161B22?style=flat-square&logo=linux&logoColor=FFFFFF" height="30" alt="Incus">
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🌱 Currently Exploring
-
-<img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" height="34" alt="Machine Learning">
-
-<br>
-
-Going deeper into **Django** & exploring **Machine Learning**.
 
 </div>
 
