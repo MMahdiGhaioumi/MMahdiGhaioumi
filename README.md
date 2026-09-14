@@ -32,10 +32,11 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/uv-161B22?style=flat-square&logo=python&logoColor=DE5FE9" height="30" alt="uv">
-&nbsp;
-<img src="https://img.shields.io/badge/Incus-161B22?style=flat-square&logo=linux&logoColor=FFFFFF" height="30" alt="Incus">
+<!-- uv -->
+<img src="https://img.shields.io/badge/uv-161B22?style=flat-square&logo=uv&logoColor=DE5FE9" height="30" alt="uv">
 
+<!-- Incus -->
+<img src="https://img.shields.io/badge/Incus-161B22?style=flat-square&logo=incus&logoColor=FFFFFF" height="30" alt="Incus">
 </div>
 
 <br>
