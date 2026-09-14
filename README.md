@@ -54,7 +54,7 @@ I'm always looking for something new to learn, build, and improve.
 
 <br><br>
 
-### Going deeper into Django & exploring Machine Learning.
+<h3>Going deeper into Django & exploring Machine Learning.</h3>
 
 </div>
 
@@ -66,13 +66,17 @@ I'm always looking for something new to learn, build, and improve.
 
 <br>
 
-**Have a question, an idea, or just want to talk about technology?**
+Have a question, an idea, or something you'd like to discuss?
 
-Feel free to **ask me anything**, start a conversation, or open a discussion.
+<br><br>
 
-<br>
+<a href="https://github.com/MMahdiGhaioumi/MMahdiGhaioumi/issues">
+  <img src="https://img.shields.io/badge/Ask%20me%20anything-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ask me anything">
+</a>
 
-*I'm always happy to learn from others and share what I know.*
+<br><br>
+
+<sub>Feel free to ask questions, share ideas, or start a conversation.</sub>
 
 </div>
 
