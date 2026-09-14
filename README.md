@@ -4,7 +4,7 @@
 
 <br>
 
-### *“Curiosity writes the code. Perfection shapes it.”*
+> **Curiosity writes the code. Perfection shapes it.**
 
 </div>
 
@@ -16,7 +16,7 @@ I'm a **Backend Developer** with a genuine passion for computers and programming
 
 I enjoy understanding how things work beneath the surface, exploring new ideas, and turning what I learn into something practical.
 
-**Curiosity keeps me exploring.
+**Curiosity keeps me exploring.  
 Perfectionism keeps me improving.**
 
 ---
@@ -25,13 +25,13 @@ Perfectionism keeps me improving.**
 
 ## ⚙️ Tech Stack
 
-### 🐍 Backend & Data
+### Backend & Data
 
 <img src="https://skillicons.dev/icons?i=python,django,mysql" height="52" alt="Python, Django, MySQL">
 
 <br><br>
 
-### 🧰 Tools & Environment
+### Tools & Environment
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux" height="52" alt="Git, Docker, Linux">
 
@@ -60,8 +60,6 @@ Perfectionism keeps me improving.**
 </div>
 
 ---
-
-<br>
 
 <div align="center">
 
