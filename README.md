@@ -20,7 +20,7 @@
 
 ## ⚙️ Tech Stack
 
-### Backend & Data
+### Languages & Backend
 
 <img src="https://skillicons.dev/icons?i=python,django,mysql,cpp" height="48" alt="Python, Django, MySQL, C++">
 
@@ -44,10 +44,9 @@
 
 ## 💬 Let's Talk
 
-Have a question or an idea?
+Have something in mind? Let's talk.
 
 <br>
-
 <a href="https://github.com/MMahdiGhaioumi/MMahdiGhaioumi/issues">
   <img src="https://img.shields.io/badge/Ask%20me%20anything-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ask me anything">
 </a>
